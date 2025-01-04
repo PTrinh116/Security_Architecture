@@ -5,8 +5,8 @@
 
 2. **Data Loss Risks Analysis**  
    - Examine risks related to data loss from two primary sources:  
-     - **Attackers**: Identify 5 major risks.  
-     - **Employees**: Identify 5 major risks.  
+     - **Attackers**: Identify major risks.  
+     - **Employees**: Identify major risks.  
    - Include methodologies and tools used for the assessment.  
    - Provide a **Risk Score Table** for the current system.
 
@@ -18,4 +18,4 @@
    - Include a **Risk Score Table** for the new system.
 
 4. **Policy Development**  
-   - Define **20 policies** to complement the technologies implemented in the redesigned system, aiming to minimize data loss risks.
+   - Define **policies** to complement the technologies implemented in the redesigned system, aiming to minimize data loss risks.
