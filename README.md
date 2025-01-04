@@ -1,7 +1,7 @@
 ## Project Objectives
 
 1. **Analysis of Weaknesses in the Current Network Model**  
-   - Identify and analyze at least **10 security risks** associated with the current network infrastructure.
+   - Identify and analyze **security risks** associated with the current network infrastructure.
 
 2. **Data Loss Risks Analysis**  
    - Examine risks related to data loss from two primary sources:  
@@ -14,7 +14,7 @@
    - Propose a new network design with a focus on **data loss prevention**:  
      - **Overall System Model**: Comprehensive overview diagram.  
      - **Detailed Models**: Specific designs for key areas such as Web Security, Email Security, IDS/IPS Security, etc.  
-   - Provide detailed explanations for each solution, with **2 pages of justification per solution**.  
+   - Provide detailed explanations for each solution, with justification per solution.  
    - Include a **Risk Score Table** for the new system.
 
 4. **Policy Development**  
